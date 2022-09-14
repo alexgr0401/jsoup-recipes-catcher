@@ -1,2 +1,2 @@
 # Jsoup recipes catcher
-Reads recipes data from a web address.
+Reads recipes text data from a web address.
